@@ -13,5 +13,5 @@ Este repositorio contiene la resolución de la prueba técnica para el puesto de
 El script de Health-Check requiere **Python 3** y la librería `requests`.
 
 ### 1. Instalación de dependencias
-```bash
 pip install requests
+
