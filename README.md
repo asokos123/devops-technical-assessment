@@ -4,7 +4,7 @@
 
 ## 🚀 Contenido del Repositorio
 
-* [cite_start]**`health_check.py`**: Script automatizado en Python para el chequeo de disponibilidad de URLs[cite: 66, 76].
+*`health_check.py`**: Script automatizado en Python para el chequeo de disponibilidad de URLs[cite: 66, 76].
 * **`urls.txt`**: Archivo de texto plano que sirve como fuente de datos con los endpoints de prueba a evaluar[cite: 67, 72].
 * [cite_start]**`health_report.csv`**: Reporte de auditoría generado automáticamente por el script con el formato requerido[cite: 69, 77].
 
