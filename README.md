@@ -1,6 +1,6 @@
 # DevOps Technical Assessment - Junior Engineer
 
-[cite_start]Este repositorio contiene la resolución de la prueba técnica para el puesto de Ingeniero DevOps Junior[cite: 5, 79].
+[cite_start]Este repositorio contiene la resolución de la prueba técnica para el puesto de Ingeniero DevOps Junior.
 
 ## 🚀 Contenido del Repositorio
 
