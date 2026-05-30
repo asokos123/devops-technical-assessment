@@ -16,7 +16,10 @@ Este repositorio contiene la resolución de la prueba técnica para el puesto de
 
 El script de Health-Check requiere **Python 3** y la librería `requests`.
 
-### 1. Instalación de dependencias
+1. Instalación de dependencias
 Para instalar la biblioteca de red necesaria, ejecuta en tu terminal:
-```bash
-pip install requests
+pip install requests 
+
+2. Ejecución leyendo desde el archivo de texto
+O bien, puedes hacer que el script procese de forma masiva la lista guardada en el archivo urls.txt:
+python health_check.py urls.txt
