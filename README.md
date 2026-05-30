@@ -20,6 +20,6 @@ El script de Health-Check requiere **Python 3** y la librería `requests`.
 Para instalar la biblioteca de red necesaria, ejecuta en tu terminal:
 pip install requests 
 
-2. Ejecución leyendo desde el archivo de texto
+3. Ejecución leyendo desde el archivo de texto
 O bien, puedes hacer que el script procese de forma masiva la lista guardada en el archivo urls.txt:
 python health_check.py urls.txt
